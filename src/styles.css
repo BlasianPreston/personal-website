@@ -187,14 +187,14 @@ nav .socials span:hover {
 }
 
 @media (width < 600px) {
-    header .image::before{
-        display: none;
+    header .image {
+        width: 80%;
     }
     .features{
         grid-template-columns: repeat(1, 1fr);
     }
     .projects-features{
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(1, 0.75fr);
     }
     .projects-card {
         word-wrap: break-word;
