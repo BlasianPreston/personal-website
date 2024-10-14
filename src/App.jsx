@@ -24,7 +24,7 @@ const App = () => {
                         <ul class='socials'>
                             <li><a href='https://www.instagram.com/isiahw06/' target="_blank"><span><FontAwesomeIcon class='social-media' icon={faInstagram}/></span></a></li>
                             <li><a href='https://www.linkedin.com/in/isiah-preston-williams-72b581261/' target="_blank"><span><FontAwesomeIcon class='social-media' icon={faLinkedin}/></span></a></li>
-                            <li href='https://github.com/BlasianPreston' target="_blank"><a><span><FontAwesomeIcon class='social-media' icon={faGithub}/></span></a></li>
+                            <li><a href='https://github.com/BlasianPreston' target="_blank"><span><FontAwesomeIcon class='social-media' icon={faGithub}/></span></a></li>
                         </ul>
                     </div>
                 </nav>
